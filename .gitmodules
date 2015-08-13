@@ -1,0 +1,3 @@
+[submodule "doc/pacman-python"]
+	path = doc/pacman-python
+	url = https://jamwaffles@bitbucket.org/FrogInABox/pacman.git
