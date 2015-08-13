@@ -1,4 +1,4 @@
 [package]
 name = "GeneticMan"
-version = "0.1.0"
-authors = ["James Waples <jamwaffles@gmail.com>"]
+version = "0.0.1"
+authors = ["James Waples <jamwaffles@gmail.com>", "Kai Leddy <epickaimail@gmail.com>"]
